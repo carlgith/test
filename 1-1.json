@@ -1,7 +1,9 @@
 {
   "streams": [
     {
-      "name": "M. LaLiga 4K",
+      "name": "Laliga",
+      "id": "1",
+      "label": "laliga4k",
       "acestream_id": "dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
     }
 ]
