@@ -2,6 +2,7 @@
   "streams": [
     {
       "name": "M. LaLiga 4K",
+      "icon" : "https://raw.githubusercontent.com/carlgith/test/refs/heads/main/ma1.jpg",
       "url": "dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
     },
     {
