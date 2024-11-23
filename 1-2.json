@@ -266,6 +266,12 @@
     },
     { "name": "Match Football 2 HD",
       "url": "ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
+    },
+    { "name":"Match Football HD",
+      "url": "b28db77c5084da7993395d77df96c30bb134f0a9"
+    },
+    { "name":"Match Football 3 HD",
+      "url": "b28db77c5084da7993395d77df96c30bb134f0a9"
     }
   ]
 }
